@@ -1,0 +1,6 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "c:\\Users\\Ramazan Fırat\\Desktop\\mssql-jdbc-11.2.1.jre17.jar"
+  ]
+}
